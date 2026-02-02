@@ -170,13 +170,6 @@ seaborn (optional, for visualizations)
 - **Best recall:** 95.35% (catches cancers)
 - **Best specificity:** 95.77% (avoids false alarms)
 
-## Next Steps
-
-- Try different kernels (RBF, polynomial)
-- Hyperparameter tuning
-- Feature importance analysis
-- Cross-validation
-- Compare with other models
 
 ## References
 
